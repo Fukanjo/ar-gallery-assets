@@ -4,7 +4,8 @@
       "nom": "La Patinoire",
       "urlImage": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/photo_01.png",
       "urlVideo": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/photo_01_augmented.mp4",
-      "description": "Ceci est la description de l'oeuvre. Vous pouvez écrire ce que vous voulez ici, cela s'affichera dans l'infobulle de l'application."
+      "description": "Ceci est la description de l'oeuvre. La patinoire sur laquelle vous pouvez écrire ce que vous voulez ici, cela s'affichera dans l'infobulle de l'application."
+	  "largeur": 0.30
     }
   ]
 }
