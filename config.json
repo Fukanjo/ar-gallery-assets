@@ -1,18 +1,19 @@
 {
   "data": [
-  {
-      "nom": "poster02",
-      "urlImage": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/poster02.png",
-      "urlVideo": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/poster02_augmented.mp4",
-      "description": "Description de la deuxième œuvre...",
-      "largeur": 0.30
-    },
-    {
+	{
       "nom": "poster01",
       "urlImage": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/poster01.png",
       "urlVideo": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/poster01_augmented.mp4",
       "description": "Ceci est la description de l'oeuvre. La patinoire sur laquelle vous pouvez écrire ce que vous voulez ici, cela s'affichera dans l'infobulle de l'application.",
       "largeur": 0.30
-    }    
+    },
+	{
+      "nom": "poster02",
+      "urlImage": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/poster02.png",
+      "urlVideo": "https://raw.githubusercontent.com/Fukanjo/ar-gallery-assets/refs/heads/main/poster02_augmented.mp4",
+      "description": "Description de la deuxième œuvre...",
+      "largeur": 0.30
+    }
+        
   ]
 }
